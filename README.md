@@ -1,5 +1,5 @@
 This file for the usser by  this u will know more about my site .
 This is site will help you to play your band in a laptop.
 You can lean the music and how to play the drum .
-so if you are exited about it go to the give link 
+so if you are exited about it go to the give link play the kit and have fun.
 
