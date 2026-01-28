@@ -12,3 +12,9 @@ Click Interaction: Each drum element responds to mouse clicks.
 Visual Animations: Buttons flash/animate when triggered to provide visual feedback.
 
 High-Quality Audio: Clean samples for kick, snare, tom-toms, and crashes.
+🛠️ Tech Stack
+HTML5: Structural layout of the drum elements.
+
+CSS3: Styling, layout (Flexbox/Grid), and button animations.
+
+JavaScript (Vanilla): Logic for event listeners, audio playback, and animation triggers.
